@@ -4,7 +4,7 @@ We have released the [GRP-DSOD](https://arxiv.org/abs/1712.00886) code in https:
 
 In this repository, we are planning to release a pytorch version of [DSOD](https://arxiv.org/abs/1708.01241) and [GRP-DSOD](https://arxiv.org/abs/1712.00886) - stay tuned!
 
-**We also see some very promising results on the PASCAL VOC Comp3 [Leaderboard](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=3), like https://github.com/kuangliu/torchcv. Unfortunately, they used the ImageNet pre-trained models as the initialized parameters (https://github.com/kuangliu/torchcv/issues/11). Please note that the Comp3 Challenge only allows to use the VOC12 dataset for training your models. Please check your training process carefully.**
+**We also see some very promising results on the PASCAL VOC Comp3 [Leaderboard](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=3), like https://github.com/kuangliu/torchcv. Unfortunately, they used the ImageNet pre-trained models as the initialized parameters (https://github.com/kuangliu/torchcv/issues/11). Please note that the Comp3 Challenge only allows to use the VOC12 dataset for training (without the pre-trained models). Please check your training process carefully.**
 
 If you find this helps your research, please cite:
 
