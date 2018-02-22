@@ -21,7 +21,7 @@ In GRP-DSOD, we propose a recurrent feature-pyramid structure to squeeze rich sp
 We also introduce a novel gate-controlled prediction strategy in GRP-DSOD to adaptively enhance or attenuate feature activations at different scales based on the input object size.
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/3794909/36568688-8d176d42-17f0-11e8-85d6-054d90ed5bfc.jpg" width="740">
+<img src="https://user-images.githubusercontent.com/3794909/36568688-8d176d42-17f0-11e8-85d6-054d90ed5bfc.jpg" width="640">
 </div>
 
 <div align=center>
@@ -29,7 +29,7 @@ Figure 1: Illustration of the motivation of GRP-DSOD.
 </div> 
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/3794909/36566300-ad4d9c2e-17e8-11e8-9808-a4c3602d21b1.jpg" width="640">
+<img src="https://user-images.githubusercontent.com/3794909/36566300-ad4d9c2e-17e8-11e8-9808-a4c3602d21b1.jpg" width="740">
 </div>
 
 <div align=center>
