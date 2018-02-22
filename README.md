@@ -15,6 +15,20 @@ If you find this helps your research, please cite:
          year={2017}
     }
 
+## Introduction
+
+In GRP-DSOD, we propose a recurrent feature-pyramid structure to squeeze rich spatial and semantic features into a single prediction layer that further reduces the number of parameters to learn (DSOD need learn 1/2, but GRP-DSOD need only 1/3). Thus our new model is more fit for learning from scratch, and can converge faster than DSOD. 
+We also introduce a novel gate-controlled prediction strategy in GRP-DSOD to adaptively enhance or attenuate feature activations at different scales based on the input object size.
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/3794909/36566300-ad4d9c2e-17e8-11e8-9808-a4c3602d21b1.jpg" width="740">
+</div>
+
+<div align=center>
+Figure 1: An overview of GRP-DSOD together with three one-stage detector methods.
+</div> 
+
+
 ## Visualization
 
 0. Visualizations of network structures (tools from [ethereon](http://ethereon.github.io/netscope/quickstart.html), please ignore the warning messages):
