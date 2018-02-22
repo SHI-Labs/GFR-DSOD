@@ -29,14 +29,14 @@ The tables below show the results on PASCAL VOC 2007, 2012 and 2012 Comp3 (train
 PASCAL VOC test results:
 
 | Method | VOC 2007 test *mAP* | # params | Models 
-|:-------|:-----:|:-------:|:-------:|:-------:|
+|:-------|:-----:|:-------:|:-------:|
 | GRP-DSOD300 (07+12) | 78.5 | 14.1M | [Download (56.5M)](https://drive.google.com/open?id=1LuAAlFffE3K26oyg_5WURT25hiLwMYdn) |
 | GRP-DSOD320 (07+12) | 78.7 | 14.2M | [Download (56.8M)](https://drive.google.com/open?id=1HffxFdGPf-W92UKED4QZn9V66OgZr9LK) |
 | GRP-DSOD320* (07+12) | 79.0 | 16.0M | [Download (63.9M)](https://drive.google.com/open?id=1NV236RkPMK2XLlsoIcWPvvAsTz9-qTOA) |
 
 
 | Method | VOC 2012 test *mAP* | # params| Models 
-|:-------|:-----:|:-----:|:-------:|:-------:|
+|:-------|:-----:|:-------:|:-------:|
 | GRP-DSOD320* (12) | 72.5 （VOC Comp3） | 16.0M | [Download (63.9M)](https://drive.google.com/open?id=1uMcMqVxiLK7M2BMWPmfi82jglyZssFbB) |
 | GRP-DSOD320 (07++12) | 77.0 | 14.2M | [Download (56.8M)](https://drive.google.com/open?id=1CMnvxy4a_GByKKnn7UgEePpUOffIXoxh) |
 | GRP-DSOD320* (07++12) | -- | -- | Running |
