@@ -29,7 +29,7 @@ Figure 1: Illustration of the motivation of GRP-DSOD.
 </div> 
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/3794909/36566300-ad4d9c2e-17e8-11e8-9808-a4c3602d21b1.jpg" width="740">
+<img src="https://user-images.githubusercontent.com/3794909/36566300-ad4d9c2e-17e8-11e8-9808-a4c3602d21b1.jpg" width="640">
 </div>
 
 <div align=center>
