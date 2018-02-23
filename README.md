@@ -62,3 +62,8 @@ PASCAL VOC test results:
 | GRP-DSOD320 (07++12) | 77.0 | 14.2M | [Download (56.8M)](https://drive.google.com/open?id=1CMnvxy4a_GByKKnn7UgEePpUOffIXoxh) |
 | GRP-DSOD320* (07++12) | -- | -- | Running |
 
+## Contact
+
+Zhiqiang Shen (zhiqiangshen0214 at gmail.com) 
+
+Any comments or suggestions are welcome!
