@@ -45,6 +45,14 @@ Figure 2: An overview of GRP-DSOD together with three one-stage detector methods
 
 ## Results & Models
 
+Our PASCAL VOC LMDB files:
+	
+| Method | LMDBs
+|:-------|:-----:|
+| Train on VOC07+12 and test on VOC07  | [Download](https://drive.google.com/open?id=1u6ngM9hEZabT2HyvzPdWpGgVTofD6jQ3) |
+| Train on VOC07++12 and test on VOC12 (Comp4)  | [Download](https://drive.google.com/open?id=1J2epI4zDFptw1RdpHAl0Z_Sphs14OtIE) |
+| Train on VOC12 and test on VOC12 (Comp3)  | [Download](https://drive.google.com/open?id=1r5DI3tVGXPYyKGAmBawKGkgROJQyh5i-) |
+
 The tables below show the results on PASCAL VOC 2007, 2012 and 2012 Comp3 (training on VOC 2012 only).
 
 PASCAL VOC test results:
