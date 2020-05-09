@@ -1,6 +1,6 @@
 # GFR-DSOD
 
-We have released the [GFR-DSOD](https://bmvc2019.org/wp-content/uploads/papers/0663-paper.pdf) code in https://github.com/szq0214/DSOD. Check out the [pycaffe code](https://github.com/szq0214/DSOD) if you would like to reproduce the results from the paper.
+We have also merged our [GFR-DSOD](https://bmvc2019.org/wp-content/uploads/papers/0663-paper.pdf) code here into the DSOD repo at https://github.com/szq0214/DSOD. Check it out there if you interested in DSOD.
 
 
 **We also see some very promising results on the PASCAL VOC Comp3 [Leaderboard](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=3), like https://github.com/kuangliu/torchcv. While we found they still used the ImageNet pre-trained models as the initialized parameters (https://github.com/kuangliu/torchcv/issues/11). Please note that the Comp3 Challenge only allows to use the VOC12 dataset for training (without the pre-trained models). Please check your training process carefully.**
